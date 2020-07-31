@@ -3,6 +3,11 @@
 # High-performance and user-friendly bloom filter in Golang
 This library provides bloom filter which has high performance and is concurrent safe. 
 
+## Install
+```
+go get -u github.com/liangyaopei/bloom
+```
+
 ## Usage
 Users only need to specify the parameter of `m`,`k`,`race` and then can use it.
 Example.
