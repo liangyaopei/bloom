@@ -169,7 +169,7 @@ func (f *Filter) AddUint32Batch(numArr []uint32) *Filter {
 	return f.AddBatch(data)
 }
 
-// AddUint64Batch adds uint64 array
+// AddUin64Batch  adds uint64 array
 func (f *Filter) AddUin64Batch(numArr []uint64) *Filter {
 	data := make([][]byte, 0, len(numArr))
 	for i := 0; i < len(numArr); i++ {
