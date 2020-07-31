@@ -1,5 +1,5 @@
-[![Go Report Card](https://goreportcard.com/report/github.com/liangyaopei/bloom)](https://goreportcard.com/report/github.com/liangyaopei/bloom)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/liangyaopei/bloom)](https://goreportcard.com/report/github.com/liangyaopei/bloom)
+[![GoDoc](https://godoc.org/github.com/liangyaopei/bloom?status.svg)](http://godoc.org/github.com/liangyaopei/bloom)
 # High-performance and user-friendly bloom filter in Golang
 This library provides bloom filter which has high performance and is concurrent safe. 
 
